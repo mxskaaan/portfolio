@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muskan's Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      color: #333;
+    }
+    header {
+      background-color: #4f46e5;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin: 0;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Muskan Raj</h1>
+    <p>Aspiring Frontend Developer</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I'm learning web development and love building beautiful, simple websites. I have experience with HTML, CSS, and I'm starting with JavaScript!</p>
+    
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Responsive Design</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+      <li>Personal Portfolio Website</li>
+      <li>Simple Login Page UI</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Muskan Raj | Built with ❤️ using HTML & CSS
+  </footer>
+</body>
+</html>
